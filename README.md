@@ -1,1 +1,1 @@
-# korish-lar-bot-
+# ko-rish-bot-
